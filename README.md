@@ -20,7 +20,7 @@ Developers are always welcome to access the source code and contribute.
 
 Any UI improvement suggestions and pull requests appriciated.
 
-Looking forward to add more feature and make it the best tool for Developers.
+Looking forward to add more feature and make it the best tool for Developers. Make sure you raise PR and don't merge directly to Master/Main branch.
 
 ==========================================
 

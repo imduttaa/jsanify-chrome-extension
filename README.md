@@ -15,11 +15,13 @@ Why to waste your time on these when you can just click on your extension and yo
 
 
 ==========================================
+
 Developers are always welcome to access the source code and contribute.
 
 Any UI improvement suggestions and pull requests appriciated.
 
 Looking forward to add more feature and make it the best tool for Developers.
+
 ==========================================
 
 
